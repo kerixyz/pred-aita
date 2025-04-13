@@ -1,0 +1,11 @@
+praw               
+pandas             
+numpy              
+scikit-learn       
+nltk               
+textblob           
+vaderSentiment     
+tensorflow        
+matplotlib         
+Flask              
+dotenv
